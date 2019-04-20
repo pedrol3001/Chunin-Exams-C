@@ -1,0 +1,32 @@
+Naruto, Vento, 85, 48, 35, 63
+Neji, Fogo, 57, 53, 81, 45
+Gaara, Terra, 73, 47, 96, 50
+Sasuke, Fogo, 68, 82, 72, 41
+Kankurou, Agua, 59, 42, 97, 60
+Shino, Fogo, 34, 97, 65, 85
+Temari, Vento, 96, 42, 63, 74
+Dosu, Terra, 33, 67, 43, 39
+Sikamaru, Fogo, 38, 50, 68, 71
+Yoroi Akadou, Fogo, 48, 83, 97, 48
+Zaku, Vento, 30, 79, 74, 71
+Misumi Tsurugi, Fogo, 79, 93, 83, 71
+Sakura, Terra, 83, 39, 47, 70
+Ino, Relampago, 40, 76, 62, 66
+Tenten, Terra, 68, 45, 78, 54
+Kin, Agua, 81, 81, 33, 77
+Hinata, Relampago, 37, 99, 91, 77
+Rock Lee, Agua, 67, 35, 81, 36
+Chouji, Terra, 67, 72, 83, 75
+Kabuto, Fogo, 55, 75, 35, 45
+Kiba, Agua, 58, 48, 70, 90
+Tobirama, Terra, 47, 65, 33, 58
+Kakashi, Relampago, 95, 64, 76, 47
+Itachi, Fogo, 73, 67, 38, 85
+Madara, Fogo, 86, 52, 76, 40
+Deidara, Terra, 92, 32, 46, 59
+Sasori, Terra, 23, 87, 53, 63
+Orochimaru, Terra, 73, 36, 91, 56
+Zetsu, Fogo, 93, 80, 50, 48
+Jiraiya, Fogo, 32, 90, 73, 62
+Obito, Fogo, 43, 68, 48, 96
+Pain, Vento, 32, 78, 73, 81
