@@ -14,7 +14,9 @@ Digite no terminal:
 Caso não tenha:
 
 Use:
+
     gcc -c lista.c arvore.c
+	
     gcc -o main main.c lista.o arvore.o
 
 
